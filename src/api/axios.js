@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = import.meta.env.VITE_API_URL || 'https://shophub-production-cad4.up.railway.app/api';
+const API_URL = import.meta.env.VITE_API_URL || 'https://backend-cpc.vercel.app/api';
 
 /**
  * Axios instance with default configuration
